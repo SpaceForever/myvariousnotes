@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "6c690c4a00ddf238",
+    "type": "split",
+    "children": [
+      {
+        "id": "7edf36d7d412817d",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "hello/Technoblade and Abed.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b061530cd4c23ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8e7db8e1093ea0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71151990c8813623",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "44fcc4e973dd8ff0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0125371556f3228e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bf25a59a9cffa33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b29d52fac7eb17a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hello/Technoblade and Abed.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Religion perverts altruism.md",
+    "index.md",
+    "README.md",
+    "Using Concept Maps for problem solving.md",
+    "silence.md"
+  ]
+}

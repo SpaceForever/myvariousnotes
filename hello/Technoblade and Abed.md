@@ -1,0 +1,1 @@
+Did you know that [[silence]] is good for [[Using silence for problem solving]] and that [[Religion perverts altruism]]?
